@@ -1,4 +1,0 @@
-Fruits:
-- Strawberry
-- Bananas
-- Ananas
