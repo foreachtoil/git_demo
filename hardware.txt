@@ -1,0 +1,4 @@
+Hardware:
+- RTX 3080 Ti
+- 64 GB of RAM 
+- i9-12900K
