@@ -1,3 +1,5 @@
 Videogames:
-- League of Legends
 - Counter Strike: Global Offensive
+- Rocket League
+- Lost Ark
+- FIFA 2022
