@@ -1,7 +1,3 @@
 Vegetables:
 - Carrot
 - Pumpkin
-Fruits:
-- Strawberry
-- Bananas
-- Ananas
